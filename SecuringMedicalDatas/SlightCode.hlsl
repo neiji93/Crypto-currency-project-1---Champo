@@ -12,3 +12,16 @@ void approximatedWrongmultidimensionalPiMultDifferentialDontSerialize(..)
   //I can add a line from CG programs.
 }
 
+//GRFToBSDF function is suited to isolate the h term. Let use it !
+//please look at my CG program. hummm, I'm using CG a lot those days !
+//But this won't continue.
+void getGRFoBSDF( )
+{
+
+}
+
+//stop using CG
+void getMultidimensionalModel(..)
+{
+
+}
