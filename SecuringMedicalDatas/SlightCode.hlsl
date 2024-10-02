@@ -25,3 +25,14 @@ void getMultidimensionalModel(..)
 {
 
 }
+
+//I m using AI here although non AI code can be found.
+//Im checking my researches....
+void getMultiDimensionalDeepModel(...)
+{
+  //The next lines are a little bit intuition from scratch. Lets see what happen.
+  getGRFoBSDF( .... ); //h ccan probably if we change the past, a term that belongs to AI. It will be good to check it.
+                        //...
+  //so h is isolated, now.... I have a lot of ideas !!!! 
+}
+
