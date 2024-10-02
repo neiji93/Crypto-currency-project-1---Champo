@@ -34,5 +34,16 @@ void getMultiDimensionalDeepModel(...)
   getGRFoBSDF( .... ); //h ccan probably if we change the past, a term that belongs to AI. It will be good to check it.
                         //...
   //so h is isolated, now.... I have a lot of ideas !!!! 
+
+  //not serializing may have a good response to find isomorphism in hidden layers.
+  //as we dont serialize, we can propagate the program because we may validate smart pointers
+  //with plancks constant. It must have other advantages like using CG benefits ! 
+  approximatedWrongmultidimensionalPiMultDifferentialDontSerialize(...);
+
+  //Using the same function twice is not a zombie virus. It helps threads
+  //to avoid sharing multiple same datas because neural networks libraries are not internally
+  //intended to replicate code. This may be stupid. I have to check my researches...
+  approximatedWrongmultidimensionalPiMultDifferentialDontSerialize(...);
+
 }
 
