@@ -10,7 +10,20 @@
 //Then, here, we wont have to add "consciensoussness" to all the files in this repository.
 void integrateByH(...)
 {
+  //very basic consciensousness from my philosophy stuffs
+  if( h > 2500 ) //seems like I continue to use CG.
+  {
+     h = h*exp(h); //From my first chess engine. Here, we are using AI not physics.
+  }
+  else{
+    //remove patterns. 
 
+
+    //h can be isolated from another file
+
+    //use riemann series and use signals or messages. The whole behaviour is not emulated because we use AI.
+    
+  }
 }
 
 //more rapid. It is preventing using supercomputer (although you can do it)
