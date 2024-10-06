@@ -31,6 +31,37 @@ void GPUSendCommandsReleasingPotentialStacks( char* commands )
 
   RK4_secure_stack( entry_queue->getAngularMomentum(), ..);
   RK4_secure_stack( output_queue->getAngularMomentum(), ..);
+
+
+  //we already proved in the readdme file that physics is best suited for OS design.
+  //so now, the next step would be to transform signal teerms into random complex formula because the first formula we described at the top is not intuitive now.
+  //Then, this is again physics ! But, in order to "control" the randomness, we have tto set an exponant term. 11 is good because it is used in physics !
+  //But, again, 11 is too high and cannot be computed at the bottom. So, ...
+  char* messageToBroadcastToDevices = randomnessControl( "..."+entry_queue->getAngularMomentum()+"...."); //Note that, as this is physics, we can reuse this statement later 
+                                                                                                          //because this is not cryptograph science. Then , not suing this at the bottom
+                                                                                                          //of this function will be ok and then we increase rapid messages process.
+  //taking in mind this last instruction above, this function ends with this last statement below
+  //As this is not related to cryptography, we can simply encode command and using RK4 is intuitive but needs 
+  //a last formula : .......  (  x + i*y   )^9
+  //the formula above was found by trying to write those below lines by scratch ! exponant 9 is not secure.
+  //Then, RK4 must be called for an encoded momentum if I m not wrong !  This seems this os not a weapon ! Great ! In thét form !
+  for(int i=0; i<=9; i++)
+  {
+    
+     RK4_command_encode_and_send( messageToBroadcastToDevices );
+  }
+  
+  async while(1)
+    {
+          wait_command_1( ... ); //As the last instructions don t matter, we can simply call this above function again and again !
+                                 //async keyword seems not secure.
+    }
+
+
+  
+
+ //   char* messageToBroadcastToDevices = randomnessControl( "..."+entry_queue->getAngularMomentum()+"...."); //NO 
+ //   send(...); //NO
 }
 
 void renderFrame()
