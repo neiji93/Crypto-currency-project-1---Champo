@@ -12,3 +12,9 @@ void exponent62_crash_prevent( )
 
 void send_usersignal_before_expoonent_62()
 {}
+
+
+//zs we can use devices without reaching
+//exponent 62, it will be cool to mimic a
+//derver that is just a function.call 
+//with containers.
