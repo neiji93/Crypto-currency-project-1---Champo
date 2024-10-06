@@ -16,6 +16,23 @@ void secureInternetContentsByApproximateLogX()
   
 }
 
+
+void GPUSendCommandsReleasingPotentialStacks( char* commands )
+{
+    //It seems that in the GPUs, it is best to work on stacks because it limits the numbers of computing requests (see notes of supercomput'er repository).
+  Stack s;
+
+  //an algorithm to exchange stacks can be model filled with heat transfer formulas.
+  //As the scheduler can handle commands with 2 directions twice, it is able to trace the message queue
+  //Then, we can design a low level arbitrary signal by reducing the size of the full latent variables numbers. It means
+  //that we have to handle at least 2*2 - 2 , then 2 models ! This case was already handled in a previous stuff.
+  //It then means that we have to secure 2 stacks first with RK4 ! we can use smart pointers to validate 
+  //the contents and the signal from scratch will be a momentum. I hope that I m not wrong.
+
+  RK4_secure_stack( entry_queue->getAngularMomentum(), ..);
+  RK4_secure_stack( output_queue->getAngularMomentum(), ..);
+}
+
 void renderFrame()
 {
   //It seems that in the GPUs, it is best to work on stacks because it limits the numbers of computing requests (see notes of supercomput'er repository).
