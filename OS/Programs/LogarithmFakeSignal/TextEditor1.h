@@ -34,3 +34,34 @@ void checkContainerEnqueueUserRandomBehaviourOnHighLevelClassesOrObejcts( .... )
   //As we dont use stacks, datas may be dropped. Lets add a smart pointer here !
 
 }
+
+
+
+//As we used queues algorithms only one time here, it is best to
+//send signals of keyboard or mouse by queueing. It wont prevent crash
+//of messages of devices but it will prevent turning senders to crash
+//chips because we have log(x) for devices materials. then, interacting protocols
+//formulas must not exist ! This is perfectly possible but we will do it later.
+
+void keyboardDontCrashSendMessageWithSignalsForNonCrashingServerCPU(...)
+{
+
+}
+
+//we will have to add some instructions to scheduller above in this repository to
+//permit keyboard and mouse controls to be isolated. It will be then to forbid
+//protocol C source code int the scheduller functions because ....
+void mouseDontCrashSendMessageWithSignalsForNonCrashingServerCPU(...)
+{
+
+}
+
+
+
+
+
+
+
+
+
+
