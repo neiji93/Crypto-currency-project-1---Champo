@@ -56,8 +56,13 @@ void mouseDontCrashSendMessageWithSignalsForNonCrashingServerCPU(...)
 
 }
 
+//mathematical forumlas can exist for this function but we will have
+//to turn them into physics formulas. Then, if we encounter some "mathematical issues"
+//we will have to send those messages to another program....
+void checkUltimateCrashOrAddPatchingMethods(...)
+{
 
-
+}
 
 
 
