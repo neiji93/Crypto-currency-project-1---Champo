@@ -24,3 +24,32 @@ void get_protocol_from_crash_test_after(...)
     }
     
 }
+
+
+
+//From scratch, the generalized series can be defined as the most most developped thing I made !
+//Here, this is computer graphics topic ! Then, what can we keep in mind to mix generalised series,
+//quaternions, prime numbers and integrals ? Yes, we can take the rendering eququation of kajiya 
+//and the BRDF or the GRF (not the BSDF) !. So here, in order to send protocol datas filled with static
+//strings (or char*), we have to set many textures sampling techniques with automorph keyowrd !
+//...
+//On the other hand, it was good to use mathematical automorph techniques to create C physical functions !!!!! YES !!!
+void sendChipProtocolKeywordAndFilledWithDatasWithAutomorphBRDFOrGRF(....)
+{
+  //First, we can use the derivatives of the rendering equation to enable ....
+  //But the most simple derivatives and old one technique may be shadow mapping !
+  //So it is best here to use GRF and rely on rendering algorithms with GRF rather than
+  //BRDF and rendering techniques !
+  //Important notice : even with direct lighting, I did some stuffs that I lost which
+  //use a huge .hlsl file for direct lighting with BRDF. But with GRF, I'm not sure about direct
+  //lighting. That said, this is perfectly ok if we use blockChain for GRF !!!! This is a stuff
+  //I started !
+  //But what about rendering equation now ?
+  //To be continued....
+
+
+}
+
+
+
+
