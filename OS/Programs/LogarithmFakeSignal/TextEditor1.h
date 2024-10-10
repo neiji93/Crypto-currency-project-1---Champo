@@ -65,6 +65,24 @@ void checkUltimateCrashOrAddPatchingMethods(...)
 }
 
 
+//As messages can be transfered to other programs, and as here we have a lot of functions,
+//we have to deal with exp(x). exp(x) grant us access to send a lot of bits to screen at one time.
+//Then,, it is best to send a lot of signals first and then, use protocol between RAM (did I use RAM for 
+//TextEditor1 anywhere ???), hard disk, screen. The keyboard and the mouse are related to log(x), then,
+//we must prevent using them with this function ! Then, after sending several signal, if we had a scheduller
+//(no need to create a réandom function or equation), we can continue with protocols until the textEditor1_File_type
+//close. ...more to come
+void scheduler_screen_hd_RAM(....)
+{
+  //send several signals first. Their goal will be to enable async ( ... ) or synchronouse (..) behaviour.
+
+
+  //The protocol for textEditor program and screen will be defined in one of the hard disk file.
+  
+
+}
+
+
 
 
 
