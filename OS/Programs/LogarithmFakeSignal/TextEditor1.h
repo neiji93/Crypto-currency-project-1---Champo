@@ -78,9 +78,21 @@ void scheduler_screen_hd_RAM(....)
 
 
   //The protocol for textEditor program and screen will be defined in one of the hard disk file.
-  
 
+
+
+  //...
+  getPRotocol();
+  rebuildProtocol();   //now c code mixed with this binary code or asm code and with the next lines can be executed
+                      //without using file architecture !
+
+
+    //As we wrote C code that....
 }
+
+
+//We can rebuild the protocol in order to prevent file based archiitecture. It will be better at low level
+//for some reason in this case to do that...
 
 
 
