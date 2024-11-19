@@ -8,3 +8,7 @@ let me tell you that according to my ecent formulas and classes that securing me
  This is possible in physics to start with this formula first because of log(x). Now I have to create a folder OS/Logarithm/Scheduller/CeramicsAlternativesTwiceReuse.h
   because civil buildings were described by me in a former repository. I mean log(x) = 0 <=> -Inf. Then, exp(11^2) wiill never reach -Inf by intuition and then,
   ceramicsAlternatives can be reused as a scheduller or maybe somewhere else later.
+
+  last update.
+  i want use some files at cgi repository to add functions on this repository. more precisely, this is the multilayerdetectionby.hlsl
+  it seems that we can use it on telecom projects too. i will do another telecom project. cheers.
