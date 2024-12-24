@@ -14,4 +14,4 @@ let me tell you that according to my ecent formulas and classes that securing me
   it seems that we can use it on telecom projects too. i will do another telecom project. cheers.
 
 
-i think i can use this surgery of heart tool made by myself from scratch to get the maximum number of money that can be hold worldwide. i repeat, im not a doctor.! 
+i think i can use this surgery of heart tool made by myself from scratch to get the maximum number of money that can be hold worldwide. i repeat, im not a doctor.! then, this id time to plzy a game with those things. sure.
