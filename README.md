@@ -12,3 +12,6 @@ let me tell you that according to my ecent formulas and classes that securing me
   last update.
   i want use some files at cgi repository to add functions on this repository. more precisely, this is the multilayerdetectionby.hlsl
   it seems that we can use it on telecom projects too. i will do another telecom project. cheers.
+
+
+i think i can use this surgery of heart tool made by myself from scratch to get the maximum number of money that can be hold worldwide. i repeat, im not a doctor.! 
