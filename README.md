@@ -15,3 +15,4 @@ let me tell you that according to my ecent formulas and classes that securing me
 
 
 i think i can use this surgery of heart tool made by myself from scratch to get the maximum number of money that can be hold worldwide. i repeat, im not a doctor.! then, this id time to plzy a game with those things. sure.
+![465292264_1968277183651447_7182716458954346277_n](https://github.com/user-attachments/assets/1b10a2c5-ba90-4869-b964-8f2ea19f0d1b)
